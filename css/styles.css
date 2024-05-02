@@ -939,10 +939,10 @@ blockquote footer, blockquote small, blockquote .small {
   }
 }
 
-@media (max-width: 1200px) {
+@media screen and (max-width: 1200px) {
 
   .hero h1 {
-    font-size: 40px;
+    font-size: 30px;
   }
 
   .hero h3 {
@@ -977,7 +977,7 @@ blockquote footer, blockquote small, blockquote .small {
 @media screen and (max-width:960px) {
 
   .hero h1 {
-    font-size: 40px;
+    font-size: 20px;
   }
 
   .hero h3 {
@@ -1056,11 +1056,6 @@ blockquote footer, blockquote small, blockquote .small {
   }
 }
 
-@media screen and (max-width: 640px) {
-  .hero h1 {
-    font-size: 6em;
-  }
-}
 
 @media screen and (max-width:560px) {
   .grid li {
