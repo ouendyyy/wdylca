@@ -975,7 +975,14 @@ blockquote footer, blockquote small, blockquote .small {
 }
 
 @media screen and (max-width:960px) {
-  
+
+  .hero h1 {
+    font-size: 40px;
+  }
+
+  .hero h3 {
+    font-size: 10px; /* 调整副标题字体大小 */
+  }
 
   .grid li {
     width: 33.3%;
