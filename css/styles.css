@@ -942,11 +942,11 @@ blockquote footer, blockquote small, blockquote .small {
 @media (max-width: 1200px) {
 
   .hero h1 {
-    font-size: 6em;
+    font-size: 4em;
   }
 
   .hero h3 {
-    font-size: 4em; /* 调整副标题字体大小 */
+    font-size: 2em; /* 调整副标题字体大小 */
   }
 
 
@@ -977,11 +977,11 @@ blockquote footer, blockquote small, blockquote .small {
 @media screen and (max-width:960px) {
 
   .hero h1 {
-    font-size: 6em;
+    font-size: 4em;
   }
 
   .hero h3 {
-    font-size: 4em; /* 调整副标题字体大小 */
+    font-size: 2em; /* 调整副标题字体大小 */
   }
 
   .grid li {
