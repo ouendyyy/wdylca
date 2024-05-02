@@ -942,7 +942,7 @@ blockquote footer, blockquote small, blockquote .small {
 @media screen and (max-width: 1200px) {
 
   .hero h1 {
-    font-size: 30px;
+    font-size: 40px;
   }
 
   .hero h3 {
@@ -977,7 +977,7 @@ blockquote footer, blockquote small, blockquote .small {
 @media screen and (max-width:960px) {
 
   .hero h1 {
-    font-size: 30px;
+    font-size: 40px;
   }
 
   .hero h3 {
