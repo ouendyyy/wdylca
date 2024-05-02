@@ -932,13 +932,14 @@ blockquote footer, blockquote small, blockquote .small {
 /**
   MEDIA QUERIES
 --------------------------------*/
-@media screen and (min-width: 980px) {
+@media screen and (min-width: 1200px) {
+
   .hero {
     width: 980px;
   }
 }
 
-@media (max-width: 768px) {
+@media (max-width: 1200px) {
 
   .hero h1 {
     font-size: 18px; /* 调整标题字体大小 */
